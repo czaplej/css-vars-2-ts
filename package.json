@@ -1,0 +1,23 @@
+{
+  "name": "css-vars-2-ts",
+  "version": "0.0.1",
+  "description": "Generate typescript interfaces and constants from .css/.scss/.sass",
+  "author": "Krzysztof Czaplejewicz <czaplejewicz.krzysztof@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "css-vars-2-ts": "./bin/css-vars-2-ts.js"
+  },
+  "devDependencies": {
+    "chalk": "^4.1.0",
+    "yargs-parser": "^20.2.4",
+    "json-to-ts": "^1.7.0",
+    "node-sass": "^5.0.0"
+  },
+  "keywords": [
+    "react",
+    "css",
+    "scss",
+    "sass",
+    "typescript"
+  ]
+}

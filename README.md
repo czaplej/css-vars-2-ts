@@ -1,5 +1,8 @@
 # css-vars-2-ts
 
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/czaplej/css-vars-2-ts/blob/master/LICENSE.md)
+[![npm latest package](https://img.shields.io/npm/v/css-vars-2-ts/latest.svg)](https://www.npmjs.com/package/css-vars-2-ts)
+
 ### Generate typescript interfaces and constants from .css/.scss/.sass
 
 This library was generated with [Nx](https://nx.dev).

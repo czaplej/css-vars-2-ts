@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Generate typescript interfaces and constants from .css/.scss/.sass",
   "author": "Krzysztof Czaplejewicz <czaplejewicz.krzysztof@gmail.com>",
+  "homepage": "https://github.com/czaplej/css-vars-2-ts#readme",
   "license": "MIT",
   "bin": {
     "css-vars-2-ts": "./bin/css-vars-2-ts.js"
